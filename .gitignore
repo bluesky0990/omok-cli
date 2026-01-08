@@ -54,3 +54,9 @@ Thumbs.db
 
 # PyInstaller
 *.spec
+
+
+
+# AI
+.claude/
+.gemini/
